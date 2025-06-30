@@ -42,7 +42,7 @@ Data in Excel                        | Data in Power BI                     | Da
 Dashboards:
 Overview                             | Industry and Defense Mechanism             
 :-----------------------------------:| :-----------------------------------:
-![](Dashboard1.jpg)                  |   ![](Dashboard2.jpg)                
+![](Dashbord1.jpg)                  |   ![](Dashboard2.jpg)                
 
 
 #  Key Statistics
