@@ -95,6 +95,6 @@ This highlights significant attribution challenges in cybersecurity investigatio
 
 Prepared by:                                                   
 IOTB TECH FELLOWSHIP,  DATA ANALYTICS CLASS OF 25     
-![](iotblogo.jpg)
+![](IOTBLOGO.jpg)
 Date: 27 JUNE 2025                                
 Data Source: Kaggle Dataset
